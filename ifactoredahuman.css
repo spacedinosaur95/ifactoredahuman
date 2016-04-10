@@ -32,3 +32,45 @@ body {
 	max-width: 425px ; 
 	font-family: "Courier New", Courier, monospace ; 
 }
+
+#introduction {
+		font-size: 18px ; 
+}
+
+#hello {
+	color: #000000 ;
+	background-color: #66CC33 ;
+	max-width: 425px ;
+	text-align: left ;
+	position: relative ; 
+	left: 500px ;
+	font-size: 18px ; 
+}
+
+#whaaat{ 
+	color: #FFFFFF ;
+	background-color: #6B1F73 ;
+	max-width: 425px ;
+	text-align: right ;
+	position: relative ; 
+	left: 200px ;
+	font-size: 18px ; 
+}
+
+#explain {
+	color: #000000 ;
+	background-color: #66CC33 ;
+	max-width: 425px ;
+	text-align: left ;
+	position: relative ; 
+	left: 500px ;
+	font-size: 18px ; 
+}
+
+#introContinue {
+		font-size: 18px ; 
+}
+
+#siteNav {
+		font-size: 18px ; 
+}
