@@ -74,3 +74,16 @@ body {
 #siteNav {
 		font-size: 18px ; 
 }
+
+#factoring{ 
+	font-size: 25px ; 
+	color: #006699 ;
+}
+
+.meow{
+	text-align: center ;
+}
+
+.button{
+	position: absolute ;
+}
